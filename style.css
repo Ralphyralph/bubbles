@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-image: url('img/happy-coffee-cup.jpg'); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+}
+canvas {
+    display: block;    border: 1px solid black;
+    padding: 0;
+    margin: auto;
+
+}

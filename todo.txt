@@ -1,0 +1,12 @@
+
+# Canvas
+    * make timeToLime = distance to mouse
+    * give particles induvidual direction spinn
+    * make lines between particles
+    * destroy particles when dead
+    * display fps
+
+
+# Design
+    * find a font
+    * put name
