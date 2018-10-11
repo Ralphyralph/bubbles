@@ -1,12 +1,18 @@
 
 # Canvas
-    * make timeToLime = distance to mouse
+    * 
     * give particles induvidual direction spinn
     * make lines between particles
-    * destroy particles when dead
     * display fps
-
 
 # Design
     * find a font
-    * put name
+    * name
+    * info
+    * project gallery
+
+# Sound
+    * polska från medelpad cover by me
+    * soundesign to actions by me
+    * play background sound
+    * sound to actions
